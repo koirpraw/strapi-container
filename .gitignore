@@ -129,3 +129,10 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+
+
+############################
+docker-compose
+############################
+docker-compose.test.yml.backup
+docker-compose.yml.backup
